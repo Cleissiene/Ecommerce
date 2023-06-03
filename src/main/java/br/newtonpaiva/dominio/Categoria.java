@@ -1,7 +1,5 @@
 package br.newtonpaiva.dominio;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
 
 import java.util.Objects;
 

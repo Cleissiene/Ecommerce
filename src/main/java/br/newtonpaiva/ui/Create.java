@@ -1,9 +1,6 @@
 package br.newtonpaiva.ui;
 
 import br.newtonpaiva.dominio.Categoria;
-import jakarta.persistence.EntityManager;
-import jakarta.persistence.EntityManagerFactory;
-import jakarta.persistence.Persistence;
 
 public class Create {
 
